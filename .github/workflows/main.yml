@@ -26,3 +26,4 @@ jobs:
         with:
           push: true
           tags: ashikap/qr-code-generator-app:latest
+#force rebuild
